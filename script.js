@@ -73,7 +73,7 @@ function showResults() {
 }
 
     // 初期サンプル質問
-    document.getElementById('questionInput').value = "新しいスキルを学ぶ最適な方法は？";
+    document.getElementById('questionInput').value = "プログラミングって何でしょうか🤔💦？";
 
 
 // 既存のJavaScriptコードの最後に、このブロックをそのまま貼り付けます
@@ -467,4 +467,5 @@ function showStats() {
 
 function closeStats() {
     document.getElementById('statsModal').style.display = 'none';
+
 }
